@@ -8,7 +8,7 @@
 ## **How to install the bookshelf and run locally ?**
 
 ```
-$ git clone https://github.com/Pallavi-Langhe/book_shelf.git
+$ git clone https://github.com/NikitaKardile26/Bookshelf.git
 $ cd book_shelf
 $ npm install
 $ npm start
