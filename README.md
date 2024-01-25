@@ -9,7 +9,7 @@
 
 ```
 $ git clone https://github.com/NikitaKardile26/Bookshelf.git
-$ cd book_shelf
+$ cd Bookshelf
 $ npm install
 $ npm start
 ```
